@@ -7,7 +7,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://github.com/DispenserBro/DispenserBro/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/DispenserBro/DispenserBro/blob/main/code.gif?raw=true" width="500"/>
 
 <h3>Back-end</h3>
 
