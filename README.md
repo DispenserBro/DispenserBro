@@ -7,6 +7,8 @@
 
 ## Technology stack
 
+<img align="right" alt="GIF" src="https://github.com/DispenserBro/DispenserBro/blob/main/code.gif?raw=true" width="500" height="320" />
+
 <h3>Back-end</h3>
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
@@ -23,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiorgam-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-## Tools
+### Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -45,7 +47,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![AngularJS](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Stats
 
@@ -53,9 +55,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DispenserBro&cache_seconds=86400&border_color=8cabf2&border_radius=0&title_color=8cabf2&text_color=FFF&bg_color=30,001954,1a1335&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ## Other
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DispenserBro&repo=DispenserBro)](https://github.com/DispenserBro) -->
+
+## Other
+
+### My certificates for nicknames
+
+[![DispenserBro](https://mynickname.com/img.php?id=1401322&sert=1)](https://mynickname.com/dis_bro)
+
+[![DispenserBro](https://mynickname.com/img.php?id=1755674&sert=1)](https://mynickname.com/id1755674)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DispenserBro&repo=DispenserBro)](https://github.com/DispenserBro) -->
 
 
 
