@@ -1,5 +1,10 @@
 # Hi there 👋 I'm a Junior Python Developer
 
+### Links to my socials
+
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=FFF)](https://vk.com/dis__bro)
+[![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dis_Br)
+
 ## Technology stack
 
 <h3>Back-end</h3>
@@ -47,11 +52,6 @@
 [![DisBro's GitHub stats](https://github-readme-stats.vercel.app/api?username=DispenserBro&cache_seconds=86400&border_color=8cabf2&border_radius=0&title_color=8cabf2&text_color=FFF&bg_color=30,001954,1a1335&count_private=true)](https://github.com/DispenserBro)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DispenserBro&cache_seconds=86400&border_color=8cabf2&border_radius=0&title_color=8cabf2&text_color=FFF&bg_color=30,001954,1a1335&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### Links to my socials
-
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=FFF)](https://vk.com/dis__bro)
-[![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dis_Br)
 
 <!-- ## Other
 
