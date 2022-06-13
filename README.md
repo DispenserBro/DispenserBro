@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋 i'm a junior python developer
 
-[![DisBro's GitHub stats](https://github-readme-stats.vercel.app/api?username=DispenserBro&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![DisBro's GitHub stats](https://github-readme-stats.vercel.app/api?username=DispenserBro&theme=tokyonight)](https://github.com/DispenserBro)
 
 
 <!--
