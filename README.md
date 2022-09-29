@@ -4,7 +4,7 @@
 
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=FFF)](https://vk.com/dis__bro)
 [![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dis_Br)
-
+<!--
 ## Technology stack
 
 <img align="right" alt="GIF" src="https://github.com/DispenserBro/DispenserBro/blob/main/code.gif?raw=true" width="500"/>
@@ -58,7 +58,7 @@
 
 
 ## Other
-
+-->
 ### My certificates for nicknames
 
 [![DispenserBro](https://mynickname.com/img.php?id=1401322&sert=1)](https://mynickname.com/dis_bro)
