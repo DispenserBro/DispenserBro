@@ -63,7 +63,7 @@
 
 [![Dis_Bro](https://mynickname.com/img.php?id=1401322&sert=1)](https://mynickname.com/dis_bro)
 
-[![DispenserBro](https://mynickname.com/img.php?id=1755674&sert=1)](https://mynickname.com/id1755674)
+[![DispenserBro](https://mynickname.com/img.php?id=1755674&sert=1)](https://mynickname.com/dispenser_bro)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DispenserBro&repo=DispenserBro)](https://github.com/DispenserBro) -->
 
 
