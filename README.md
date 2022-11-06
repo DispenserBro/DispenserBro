@@ -1,4 +1,4 @@
-# Hi there 👋 I'm a Junior Python Developer
+# Hi there 👋 <!-- I'm a Junior Python Developer -->
 
 ### Links to my socials
 
@@ -59,27 +59,9 @@
 
 ## Other -->
 
-### My certificates for nicknames
+<!-- ### My certificates for nicknames
 
 [![Dis_Bro](https://mynickname.com/img.php?id=1401322&sert=1)](https://mynickname.com/dis_bro)
 
-[![DispenserBro](https://mynickname.com/img.php?id=1755674&sert=1)](https://mynickname.com/dispenser_bro)
+[![DispenserBro](https://mynickname.com/img.php?id=1755674&sert=1)](https://mynickname.com/dispenser_bro) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DispenserBro&repo=DispenserBro)](https://github.com/DispenserBro) -->
-
-
-
-
-<!--
-**DispenserBro/DispenserBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
