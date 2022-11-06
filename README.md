@@ -1,4 +1,4 @@
-# Hi there 👋 <!-- I'm a Junior Python Developer -->
+# Hi there :wave: <!-- I'm a Junior Python Developer -->
 
 ### Links to my socials
 
