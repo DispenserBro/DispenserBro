@@ -1,29 +1,29 @@
 # Hi there :wave: <!-- I'm a Junior Python Developer -->
 
+<img align="right" alt="GIF" src="https://github.com/DispenserBro/DispenserBro/blob/main/code.gif?raw=true" width="500"/>
+
 ### Links to my socials
 
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=FFF)](https://vk.com/dis__bro)
 [![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dis_Br)
 
-## Technology stack
-
-<img align="right" alt="GIF" src="https://github.com/DispenserBro/DispenserBro/blob/main/code.gif?raw=true" width="500"/>
+<!-- ## Technology stack
 
 <h3>Back-end</h3>
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
-<!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### Databases
 
-<!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Front-end
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<!-- ![Aiogram](https://img.shields.io/badge/Aiorgam-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) -->
+![Aiogram](https://img.shields.io/badge/Aiorgam-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Tools
 
@@ -38,7 +38,7 @@
 ### Operating systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) <sup>(in WSL)</sup>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) <sup>(in WSL)</sup> -->
 
 <!-- ### Learning
 
