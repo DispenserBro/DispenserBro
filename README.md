@@ -1,6 +1,8 @@
 # Hi there :wave: <!-- I'm a Junior Python Developer -->
 
-<img align="right" alt="GIF" src="https://github.com/DispenserBro/DispenserBro/blob/main/code.gif?raw=true" width="500"/>
+<!-- <img align="right" alt="GIF" src="https://github.com/DispenserBro/DispenserBro/blob/main/code.gif?raw=true" width="500"/> -->
+
+![Coding](https://github.com/DispenserBro/DispenserBro/blob/main/code.gif)
 
 ### Links to my socials
 
