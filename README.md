@@ -52,11 +52,31 @@
 
 ## Stats
 
-[![DisBro's GitHub stats](https://github-readme-stats.vercel.app/api?username=DispenserBro&cache_seconds=86400&border_color=8cabf2&border_radius=0&title_color=8cabf2&text_color=FFF&bg_color=30,001954,1a1335&count_private=true)](https://github.com/DispenserBro)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=DispenserBro&show_icons=true&theme=algolia&custom_title=Dis_Bro's%20stats"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=DispenserBro&show_icons=true&theme=graywhite&custom_title=Dis_Bro's%20stats"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=DispenserBro&show_icons=true" />
+</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DispenserBro&cache_seconds=86400&border_color=8cabf2&border_radius=0&title_color=8cabf2&text_color=FFF&bg_color=30,001954,1a1335&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DispenserBro&layout=compact&show_icons=true&theme=algolia"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DispenserBro&layout=compact&show_icons=true&theme=graywhite"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DispenserBro&layout=compact&show_icons=true" />
+</picture>
 
-
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DispenserBro)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ## Other -->
 
