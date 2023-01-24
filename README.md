@@ -56,11 +56,11 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=DispenserBro&show_icons=true&theme=algolia&custom_title=Dis_Bro's%20stats"
+  srcset="https://github-readme-stats.vercel.app/api?username=DispenserBro&show_icons=true&theme=algolia&custom_title=Dis_Bro%20stats"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=DispenserBro&show_icons=true&theme=graywhite&custom_title=Dis_Bro's%20stats"
+  srcset="https://github-readme-stats.vercel.app/api?username=DispenserBro&show_icons=true&theme=graywhite&custom_title=Dis_Bro%20stats"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=DispenserBro&show_icons=true" />
@@ -68,14 +68,14 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DispenserBro&layout=compact&show_icons=true&theme=algolia"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DispenserBro&layout=compact&theme=algolia"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DispenserBro&layout=compact&show_icons=true&theme=graywhite"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DispenserBro&layout=compact&theme=graywhite"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DispenserBro&layout=compact&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DispenserBro&layout=compact" />
 </picture>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DispenserBro)](https://github.com/anuraghazra/github-readme-stats) -->
